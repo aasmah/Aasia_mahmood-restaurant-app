@@ -7,9 +7,7 @@
 ## use yarn and then yarn dev to run the code
 
 Do NOT do a yarn build
-<<<<<<< HEAD
 
-=======
 index.js (Data is hardcoded)
 
 index.js (Get data from Strapi using Apollo and GraphQL)
